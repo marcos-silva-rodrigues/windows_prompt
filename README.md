@@ -21,3 +21,11 @@ repositorio para armazenar os scripts nos meus estudos sobre o terminal do windo
 + DATE, exibir a hora atual e permite editar
 + FIND, busca um conteudo em um arquivo de texto
 + EXIT, fecha o terminal
++ ECHO, printa um texto no ternimal
++ NOTEPAD, abre o bloco de notas
++ TAR, compacta arquivo
+    + -c para compactar
+    + -f nomeia o arquivo compactado/descompactado
+    + -x descompacta
+    + -t list os arquivos compactados
++ ">" atribui o conteudo ao um arquivo
