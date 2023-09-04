@@ -29,3 +29,5 @@ repositorio para armazenar os scripts nos meus estudos sobre o terminal do windo
     + -x descompacta
     + -t list os arquivos compactados
 + ">" atribui o conteudo ao um arquivo
++ SET, cria e atribui um valor a uma variavel
++ SETX, atribui o valor de uma variavel ao path
